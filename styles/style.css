@@ -2,3 +2,11 @@ div {
     background-color: aqua;
     padding: 10px;
 }
+
+#second {
+    border: 10px solid tan;
+}
+
+#third {
+    border: 10px solid goldenrod;
+}
